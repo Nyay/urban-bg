@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+
+div {
+    position: absolute;
+    border-radius: 10px;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+#photos {
+    width: 150%;
+    height: 150%;
+    position: absolute;
+}
+
+.box:nth-child(1) {
+    top: 5%;
+    left: 4%;
+    height: 21%;
+    width: 21%;
+    background: darkorange;
+}
+
+.box:nth-child(2) {
+    top: 32%;
+    left: 6%;
+    width: 13%;
+    height: 28%;
+    background: cadetblue;
+}
+
+.box:nth-child(3) {
+    top: 2%;
+    left: 32%;
+    width: 15%;
+    height: 33%;
+    background: chocolate;
+}
+
+.box:nth-child(4) {
+    top: 43%;
+    left: 27%;
+    width: 16%;
+    height: 19%;
+    background: darkslateblue;
+}
+
+.box:nth-child(5) {
+    top: 6%;
+    left: 52%;
+    width: 32%;
+    height: 20%;
+    background: darksalmon;
+}
+
+.box:nth-child(6) {
+    top: 70%;
+    left: 10%;
+    width: 20%;
+    height: 20%;
+    background: forestgreen;
+}
+
+.box:nth-child(7) {
+    top: 52%;
+    left: 83%;
+    height: 44%;
+    width: 15%;
+    background: deeppink;
+}
+
+.box:nth-child(8) {
+    top: 63%;
+    left: 61%;
+    height: 26%;
+    width: 17%;
+    background: darkorchid;
+}
+
+.box:nth-child(9) {
+    top: 4%;
+    left: 86%;
+    width: 12%;
+    height: 43%;
+    background: gold;
+}
+
+.box:nth-child(10) {
+    top: 32%;
+    left: 55%;
+    width: 24%;
+    height: 23%;
+    background: dodgerblue;
+}
+
+.box:nth-child(11) {
+    top: 71%;
+    left: 40%;
+    width: 13%;
+    height: 26%;
+    background: slateblue;
+}
